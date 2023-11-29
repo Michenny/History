@@ -1,4 +1,4 @@
-# History
+
 <html>
     <title>Історія від Сидоровича</title>
     <body style="background-color:black;font-family:;">
