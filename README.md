@@ -22,17 +22,17 @@
                     <td>Анонс</td>
                    <td>Реліз</td>
                 </tr>
-              <tr style="border:1px solid yellow;background-color:black;color:yellow">
+              <tr style="background-color:black;border:1px solid yellow;color:yellow">
                  <td>CoP</td>
                  <td>30.04.09</td>
                  <td>02.10.09</td>
               </tr>
-                 <tr style="border:1px solid yellow;background-color:black;color:yellow">
+                 <tr style="background-color:black;border:1px solid yellow;color:yellow">
                    <td>CS</td>
                    <td>11.07.07</td>
                    <td>22.08.08 </td>
                  </tr>
-                   <tr style="border:1px solid yellow;background-color:black;color:yellow">
+                   <tr style="background-color:black;border:1px solid yellow;color:yellow">
                    <td>SoC</td>
                    <td>13.11.01</td>
                    <td>20.03.07</td>
@@ -45,7 +45,7 @@
             </main> 
             <footer style="background-color:gray;color:yellow">
             <p style="color:yellow"> Номер телефону 983412</p>
-             <p style="color:yellow"> вулиця пушкіна 12</p>
+             <p style="color:yellow"> вулиця Перемоги 12</p>
             </footer>
     </body>        
 </html>
