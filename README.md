@@ -45,7 +45,6 @@
             </main> 
             <footer style="background-color:gray;color:yellow">
             <p style="color:yellow"> Номер телефону 983412</p>
-          <a href="https://www.instagram.com/stalker2_thegame/"style="color:yellow;text-align:center;">сторінка розробників в інстаграмі<br/></a> 
              <a href="https://www.stalker2.com/uk"style="color:yellow">предзамовити гру</a>
              <p style="color:yellow"> вулиця пушкіна 12</p>
             </footer>
