@@ -1,4 +1,4 @@
-# HistoryfromSidorovich
+# History from Sidorovich
 <html>
     <title>Історія від Сидоровича</title>
     <body style="background-color:black;font-family:;">
@@ -36,8 +36,7 @@
                    <td>SoC</td>
                    <td>13.11.01</td>
                    <td>20.03.07</td>
-                   </tr>
-                      
+                   </tr>    
            </table>
              <p style="font-size:25px;text-align:center;color:yellow">І ось, грудень 2011 року, розробка STALKER2 з новою командою йде повним ходом, у 2012 році має відбутися реліз (за словами розробників) разом із прем'єрою Мерч, коміксів і купи всього ще. Але 9 грудня засновник студії Сергій Григорович оголошує про розпуск усіх відділів GSC Game World, а саму гру скасовує.</p>
          <h2 style="color:yellow;text-align:center;font-size:40px">Що сталось з серією ігор сталкер?</h2>
