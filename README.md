@@ -4,7 +4,7 @@
     <body style="background-color:black;font-family:;">
         <header style="background-color:gray">
            <img src="http://sstalkerr.do.am/icons/ODuHo4Ku.jpg"height="30"/> 
-            <a href="https://uk.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%86%D0%B3%D1%80%D0%B8_GSC_Game_World" style="color:yellow">Додаткова інформація</a>
+         <p><a href="https://uk.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%86%D0%B3%D1%80%D0%B8_GSC_Game_World" style="color:yellow">Додаткова інформація</a></p>
               </header> 
             <main style="background-color:black">
              <h1 style="color:yellow;text-align:center;font-size:40px">Як створювався S.T.A.L.K.E.R</h1>
