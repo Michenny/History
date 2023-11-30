@@ -16,8 +16,8 @@
              <p style="font-size:25px;text-align:center;color:yellow">Головним героєм був Мічений — один із таких сталкерів, який втратив пам'ять і намагається на шляху до Зони з'ясувати, що з ним сталося.</p>
              <p style="font-size:25px;text-align:center;color:yellow">Коли гра вийшла на ігровий ринок вона отримала високі оцінки критиків: оглядачі особливо відзначали опрацьований світ гри та захоплюючий геймплей, хоч і вказували на велику кількість технічних проблем та нарікали на невиконані обіцянки розробників. «Тінь Чорнобиля» також виявилася комерційно успішною — по всьому світу було продано понад два мільйони копій гри.</p> 
              <h1 style="color:yellow;text-align:center;font-size:40px">Назва та дати виходу кожної частини сталкеру</h1>
-             <table style="border:1px solid yellow;border-collapse:collapse;">
-                <tr style="background-color:black;border:1px solid yellow;color:yellow">
+             table style="border:1px solid yellow;border-collapse:collapse;">
+                <tr style="background-color:black;color:yellow;">
                    <td>Назва</td>
                     <td>Анонс</td>
                    <td>Реліз</td>
@@ -36,7 +36,7 @@
                    <td>SoC</td>
                    <td>13.11.01</td>
                    <td>20.03.07</td>
-                   </tr>    
+                   </tr>     
            </table>
              <p style="font-size:25px;text-align:center;color:yellow">І ось, грудень 2011 року, розробка STALKER2 з новою командою йде повним ходом, у 2012 році має відбутися реліз (за словами розробників) разом із прем'єрою Мерч, коміксів і купи всього ще. Але 9 грудня засновник студії Сергій Григорович оголошує про розпуск усіх відділів GSC Game World, а саму гру скасовує.</p>
          <h2 style="color:yellow;text-align:center;font-size:40px">Що сталось з серією ігор сталкер?</h2>
