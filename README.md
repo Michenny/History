@@ -12,7 +12,8 @@
           <p style="text-align:center;">
           <img src="https://cs8.pikabu.ru/post_img/big/2018/01/03/8/1514985016156154797.jpg" height="180"></p>  
              <p style="font-size:25px;text-align:center;color:yellow">Події гри відбуваються в альтернативному світі на території України, в Чорнобильській зоні відчуження. Згідно сюжету серії, в 2006 році зона зазнала несподіваного аномального впливу</p>
-            <img src="https://static.wikia.nocookie.net/stalker_ru_gamepedia/images/0/01/Monolith_blowout.jpg/revision/latest?cb=20170724201337"height="180">
+                <p style="text-align:center;">
+            <img src="https://static.wikia.nocookie.net/stalker_ru_gamepedia/images/0/01/Monolith_blowout.jpg/revision/latest?cb=20170724201337"height="180"></p>
              <p style="font-size:25px;text-align:center;color:yellow">Головним героєм був Мічений — один із таких сталкерів, який втратив пам'ять і намагається на шляху до Зони з'ясувати, що з ним сталося.</p>
              <p style="font-size:25px;text-align:center;color:yellow">Коли гра вийшла на ігровий ринок вона отримала високі оцінки критиків: оглядачі особливо відзначали опрацьований світ гри та захоплюючий геймплей, хоч і вказували на велику кількість технічних проблем та нарікали на невиконані обіцянки розробників. «Тінь Чорнобиля» також виявилася комерційно успішною — по всьому світу було продано понад два мільйони копій гри.</p> 
              <h1 style="color:yellow;text-align:center;font-size:40px">Назва та дати виходу кожної частини сталкеру</h1>
